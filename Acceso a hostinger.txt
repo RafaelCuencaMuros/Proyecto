@@ -1,0 +1,24 @@
+  Usuario de la aplicación
+-----------------------------
+Usuario: admin
+Contraseña: admin
+
+
+     Datos del hosting
+-----------------------------
+Nombre del dominio: liatryfloristas.esy.es
+Usuario: rafa.esi2@gmail.com
+Contraseña: proyectorafa
+
+
+    Datos de acceso FTP
+-----------------------------
+Host FTP: ftp.liatryfloristas.esy.es
+
+-Usuario con acceso al host completo
+      Usuario: u754886140
+      Contraseña: proyectorafa
+
+-Usuario con acceso al directorio documentación
+      Usuario: u754886140.profesor
+      Contraseña: profesor
